@@ -1,9 +1,10 @@
-﻿Role;Skill
-Data analyst;Python
-Data analyst;Streamlit
-Data analyst;Machine learning
-Project manager;Project management
-HR manager;HR
-HR manager;Recruitment
-Data scientist;Machine learning
-Data scientist;Python
+﻿Role,Skill
+Data analyst,Python
+Data analyst,Streamlit
+Data analyst.Machine learning
+Project manager, Project management
+HR manager, HR
+HR manager, Recruitment
+Data scientist, Machine learning
+Data scientist, Python
+Data engineer, Python
